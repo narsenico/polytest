@@ -1,0 +1,4 @@
+{
+  "proxy": "http://calgia:am0n3r@1@ztvsproxy01:8080/",
+  "https-proxy": "http://calgia:am0n3r@1@ztvsproxy01:8080/"  
+}

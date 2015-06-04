@@ -1,0 +1,19 @@
+{
+  "name": "polytest",
+  "version": "0.0.0",
+  "homepage": "https://github.com/narsenico/polytest",
+  "authors": [
+    "narsenico <n3r0n3@78>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.0"
+  }
+}
